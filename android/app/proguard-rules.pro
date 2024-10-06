@@ -1,0 +1,3 @@
+-keep class com.amap.api.maps.** { *; }
+-keep class com.amap.api.maps2d.** { *; }
+-keep class com.autonavi.** { *; }
